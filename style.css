@@ -23,8 +23,14 @@
 .hello:hover{
     box-shadow:2px 2px 2px blue;
 }
-.inp{
-    position: relative;
-    right: 40vh;
-    bottom: 1vh;
+.for{
+ max-widht:400px;
+ margin:0 auto;
+}
+.lbel{
+ max-widht:400px;
+ margin:0 auto;
+}
+.inp2{
+ max-widht:400px;
 }
