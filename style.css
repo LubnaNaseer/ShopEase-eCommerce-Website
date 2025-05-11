@@ -1,0 +1,30 @@
+/* .custombtn:hover{
+ background-color: white;
+ color: black;
+} */
+.list:hover{   
+    background-color: rgb(22, 22, 22);
+}
+
+.Customers{
+    border: 1px solid;
+    background-color:white;
+    font-style: italic;
+    width: 300px;
+}
+ .Customers:hover{
+    box-shadow:2px 2px 2px blue ;
+}
+.buy:hover{
+    background-color:white;
+   /* color: white; */
+    border: 1px solid blue;
+}
+.hello:hover{
+    box-shadow:2px 2px 2px blue;
+}
+.inp{
+    position: relative;
+    right: 40vh;
+    bottom: 1vh;
+}
